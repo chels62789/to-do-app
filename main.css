@@ -1,5 +1,5 @@
 body {
-  padding-bottom: 5rem;
+  padding-bottom: 20rem;
 }
 
 header
@@ -7,19 +7,14 @@ header
 h1 {
   color: hsla(189, 100%, 29%, 1);
   font-weight: bold;
+
 }
 
 main {
   max-width: 900px;
+  padding-bottom: 200rem;
 }
 
-.project-description {
-  padding-left: 0;
-}
-
-.project img {
-  width: 100%;
-}
 
 footer.mdl-mini-footer {
   bottom: 0;

@@ -17,7 +17,7 @@ function onReady() {
 
       deleteBtn.addEventListener('click', event => {
         toDos = toDos.filter(function(item){
-          return item.id !== todo.id
+          return item.id !== todo.id;
         })
 
       renderTheUI();
